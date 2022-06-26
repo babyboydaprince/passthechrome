@@ -1,0 +1,3 @@
+colorama
+pypiwin32
+pycryptodome
