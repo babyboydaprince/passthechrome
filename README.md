@@ -4,7 +4,7 @@
 Python script which grabs chrome locally stored passwords and
 drecrypts them using the locally stored key.
 
-![alt text](https://github.com/babyboydaprince/cookeys/blob/main/img/banner.png?raw=true)
+![alt text](https://github.com/babyboydaprince/passthechrome/blob/main/img/logo.png?raw=true)
 
 ## 🚀 Run
 
