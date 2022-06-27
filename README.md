@@ -35,6 +35,18 @@ python passTheChrome.py
 
 ---
 
+## 📄 Terms
+
+I, the developer, do not take any responsibility charges for bad usage
+of this software.
+
+This tool was created for study purposes.
+
+Respect other people's privacy.
+
+
+---
+
 ## 📌 Comming soon
 
 -> Remote execution
