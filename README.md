@@ -1,4 +1,5 @@
 
+# Pass the chrome
 # Chrome password grabber and decryptor made with python
 
 Python script which grabs chrome locally stored passwords and
